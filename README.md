@@ -1,2 +1,3 @@
 # webtech-prj-clinicaMedicala
 Tema proiectului meu este realizarea unui site pentru o clinica medicala
+Pentru proiectul meu, vreau sa realizez un site pentru o clinica medicala. Functionalitatile pe care acesta le va avea vor fi: -posibilitatea vizualizarii unei liste a tuturor medicilor care isi desfasoara activitatea in cadrul clinicii medicale, fiecare medic avand o descriere profesionala. -realizarea unei liste a celor mai importante specialitati medicale; -posibilitatea realizarii unei programari online; -afisarea unei zone in care vor fi descrise cele mai noi technici medicale; -posibilitatea acordarii unui feedback de catre vizitatorii site-ului.
