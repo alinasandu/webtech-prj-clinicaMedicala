@@ -1,0 +1,119 @@
+body{
+		
+	 background-image: url("BackgroundAboutPage.jpg"); 
+     text-align:left;
+	
+}
+
+#presentation{
+    text-align: center;
+	color:#064772; 	 
+	font-style: italic ;
+	text-transform:uppercase; 	 
+	font-family:"Colibri", serif; 	 
+    font-size:55px; 
+    
+}
+
+#name{
+    text-align: center;
+	color:#1468a0; 	 
+	font-style: italic ;
+	text-transform:uppercase; 	 
+	font-family:"Colibri", serif; 	 
+    font-size:55px; 
+    
+}
+
+#title-main{
+    text-align: left;
+	color:#134966; 	 
+	font-style:normal ;
+	text-transform:uppercase; 	 
+	font-family:"Colibri", serif; 	 
+    font-size:30px; 
+    
+
+}
+#pagraph1{
+    
+    text-align: left;
+	color:black; 	 
+	font-style:normal ;
+	font-family:"Colibri"; 	 
+    font-size:20px; 
+}
+
+#pagraph2{
+    
+    text-align: left;
+	color:#03344f; 	 
+	font-style:normal ;
+	font-family:"Colibri"; 	 
+    font-size:20px; 
+}
+
+#pagraph3{
+    
+    text-align: left;
+	color:#075f8e; 	 
+	font-style:normal ;
+	font-family:"Colibri"; 	 
+    font-size:20px; 
+}
+
+#pagraph4{
+    
+    text-align: center;
+	color:#0e8dd1; 	 
+	font-style:normal ;
+	font-family:"Colibri"; 	 
+    font-size:20px; 
+}
+
+#list{
+    
+    text-align: center;
+	color:#0e8dd1; 	 
+	font-style:italic ;
+	font-family:"Colibri"; 	 
+  
+}
+
+#contact{
+    
+    
+    text-align: left;
+	color:#31ade2; 	 
+	font-family:"Colibri";
+	font-style: italic;
+}
+
+.copyright{
+        
+    text-align: right;
+	color:#31ade2; 	 
+	font-family:"Colibri";
+    
+}
+
+
+a:link {
+    color:#1212e2;
+}
+
+/* visited link */
+a:visited {
+    color: #0877cc;
+}
+
+/* mouse over link */
+a:hover {
+    color: #42c8f4;
+}
+
+/* selected link */
+a:active {
+    color: #1212e2;
+}
+

@@ -1,0 +1,55 @@
+body{
+    background-image: url("BackgroundAboutPage.jpg");
+    
+}
+
+
+#title{
+   text-align: center;
+	color:#064772; 	 
+	font-style: italic ;
+	font-family:"Colibri", serif; 	 
+    font-size:55px; 
+    
+    
+    
+}
+
+
+
+a:link {
+    color:#4c1d60;
+    font-size: 25px;
+    background-color: #196cb5;
+}
+
+/* visited link */
+a:visited {
+    color:#19a5b5;
+     font-size:25px;
+       background-color: #196cb5;
+}
+
+/* mouse over link */
+a:hover {
+    color: #bf77dd;
+    font-size: 25px;
+      background-color:#196cb5;
+}
+
+/* selected link */
+a:active {
+    color: #a942d6;
+     font-size: 25px;
+       background-color: #196cb5;
+}
+
+img{
+   
+    width: 75%;
+    height: 75%
+}
+.img{
+    
+    text-align: center;
+}

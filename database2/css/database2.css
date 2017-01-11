@@ -1,0 +1,25 @@
+body{
+    background-image: url("BackgroundAboutPage.jpg");
+}
+
+#title{
+    text-align: center;
+	color:#064772; 	 
+	font-style: italic ;
+	text-transform:uppercase; 	 
+	font-family:"Colibri", serif; 	 
+    font-size:55px; 
+    
+}
+
+
+
+#online-appointment{
+    
+  
+	color:#075b84; 	 
+	font-style: italic ;
+   
+    
+    
+}
